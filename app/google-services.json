@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34241814584",
+    "firebase_url": "https://onionchat-8396b.firebaseio.com",
+    "project_id": "onionchat-8396b",
+    "storage_bucket": "onionchat-8396b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34241814584:android:13437877ca27431800c6cd",
+        "android_client_info": {
+          "package_name": "com.devcloud.onionchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34241814584-e9l9dlhhvr1ffjgab9dav26hvbhogabm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPk33aQCngYX-Czycdbf24iFzsp7_NP4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34241814584-e9l9dlhhvr1ffjgab9dav26hvbhogabm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
