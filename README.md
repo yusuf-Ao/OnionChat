@@ -2,7 +2,8 @@
 ![platform](https://img.shields.io/badge/PLATFORM-Android-blue)
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](LICENSE)
 
-OnionChat is a basic mobile chat application. 
+OnionChat is a basic mobile chat application. Initially a college project!
+
 If you like my work, and would like to see more content you can follow me here -
 Also, feel free to follow me on Instagram [**@ay.codes**](https://www.instagram.com/ay.codes/).
     
