@@ -3,14 +3,12 @@
 [![GitHub license](https://img.shields.io/badge/LICENSE-MIT-brightgreen)](LICENSE)
 
 OnionChat is a basic mobile chat application. Initially a college project!
-
-If you like my work, and would like to see more content you can follow me here -
-Also, feel free to follow me on Instagram [**@ay.codes**](https://www.instagram.com/ay.codes/).
-    
-
-### Connect with me 👇🏻
-
-[![Instagram](https://raw.githubusercontent.com/yusuf-Ao/Android-Stuffs/master/SimpleAnimations/Images/instagram.png)](https://www.instagram.com/ay.codes/) 
+Highlights of technologies, frameworks and concept used in this project are:
+- Java
+- Firebase Auth
+- Firebase Storage
+- Firebase Database
+- Gradle
 
 
 ##  APP SNAPSHOTS
